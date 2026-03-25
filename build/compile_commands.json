@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/casti/UTEC_CollegeProjects/UTEC_3rdPeriod/Programacion3/Semana 1/Proj_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\Proj_1.dir\\main.cpp.obj -c \"C:\\Users\\casti\\UTEC_CollegeProjects\\UTEC_3rdPeriod\\Programacion3\\Semana 1\\Proj_1\\main.cpp\"",
+  "file": "C:/Users/casti/UTEC_CollegeProjects/UTEC_3rdPeriod/Programacion3/Semana 1/Proj_1/main.cpp",
+  "output": "CMakeFiles/Proj_1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/casti/UTEC_CollegeProjects/UTEC_3rdPeriod/Programacion3/Semana 1/Proj_1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++20 -o CMakeFiles\\Proj_1.dir\\Calumno.cpp.obj -c \"C:\\Users\\casti\\UTEC_CollegeProjects\\UTEC_3rdPeriod\\Programacion3\\Semana 1\\Proj_1\\Calumno.cpp\"",
+  "file": "C:/Users/casti/UTEC_CollegeProjects/UTEC_3rdPeriod/Programacion3/Semana 1/Proj_1/Calumno.cpp",
+  "output": "CMakeFiles/Proj_1.dir/Calumno.cpp.obj"
+}
+]
